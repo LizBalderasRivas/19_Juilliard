@@ -1,0 +1,96 @@
+nav{
+    height: auto; 
+    margin: 0 auto; 
+    overflow: hidden;
+  }
+ul{
+    float: left;
+    list-style-type: none; 
+    position: relative;
+    left: 50%;
+    padding:1px;
+    font-family: OpenSans-Light;
+        }
+li{
+    float: left;
+    position: relative; 
+    right: 50%;
+    margin-top: 50px;
+    margin-right: 50px;
+    color: gray;
+    display: inline;
+    }
+ li a{
+    padding: 10px; 
+}
+.fondo{
+	background-image: url(../img/dance_7.jpg);
+
+}
+.sobre{
+	margin-left: 25%;
+	/* margin-top: 10%; */
+	color: white;
+	font-family: LatoHeavy;
+}
+.sobre1{
+	/* margin-bottom: 75%; */
+	margin-left: 5%;
+	color: #D8D8D8;
+	font-family: LatoLight;
+	
+
+}
+.cuadro-opaco{
+	background: black;
+	margin-left: 300px;
+	margin-right: 400px;
+	margin-top: 220px; 
+	width: 500px;
+	height: 200px;
+	opacity: 0.5;
+}
+.fondo2{
+	background-image: url(../img/cubes.png);
+}
+.instructores1{
+	width: 200px;
+	height: 150px;
+	margin-left: 20%;
+}
+.instructores{
+	width: 200px;
+	height: 150px;
+	margin-left: 20%;
+	display: inline-block;
+}
+.descripcion{
+	margin-left: 90px;
+}
+.zapatilla{
+	width: 100%;
+}
+.fondo-footer{
+    background:#0B0B3B; 
+}
+.frase{
+	font-size: 30px;
+}
+#contact_form{
+	margin-left: 25%;
+}
+#submit_button{
+	font-family: Montserrat;
+    height: 40px;
+    width: 490px;
+    border:3px solid #0B0B61;
+    background: #0B0B61;
+    cursor: pointer; 
+    color: white;
+}
+.contactanos{
+	color:#0B0B61;
+	font-size: 45px; 
+	margin-left: 25%;
+	margin-bottom: 10%;
+}

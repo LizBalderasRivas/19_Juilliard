@@ -1,0 +1,115 @@
+nav{
+    height: auto; 
+    margin: 0 auto; 
+    overflow: hidden;
+  }
+ul{
+    float: left;
+    list-style-type: none; 
+    position: relative;
+    left: 50%;
+    padding:1px;
+    font-family: OpenSans-Light;
+        }
+li{
+    float: left;
+    position: relative; 
+    right: 50%;
+    margin-top: 50px;
+    margin-right: 50px;
+    color: gray;
+    display: inline;
+    }
+ li a{
+    padding: 10px; 
+}
+.fondo{
+    background-color: #D8D8D8;
+}
+.oferta{
+    text-align: center;
+}
+.ballet {
+    background-image: url(../img/dance_12.jpg);
+    margin-left: 10%; 
+    width: 300px;
+      height: 400px;
+       }
+.cuadro-opaco{
+    width: 250px;
+    height: 100px;
+    opacity: 0.4;
+    background-color:black;
+    position: relative; 
+    top: 160px;
+    left: 25px;
+    margin-left: 8px;
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-right: 10px; 
+    color: white; }
+
+.modern {
+    background-image: url(../img/breakdance.jpg);
+    margin-left: 10%; 
+    width: 300px;
+    height: 400px;
+    }
+.lirical-jazz {
+    background-image: url(../img/lirical-jazz.jpg);
+    margin-left: 10%; 
+    width: 300px;
+    height: 400px;
+    }
+
+.arabic{
+    background-image: url(../img/arabe.jpg);
+    margin-left: 10%;
+    margin-top: 10%; 
+    width: 300px;
+    height: 400px;
+}
+.kids{
+    background-image: url(../img/little.jpg);
+    margin-left: 10%;
+    margin-top: 10%; 
+    width: 300px;
+    height: 400px; 
+}
+.yoga{
+    background-image: url(../img/yoga.jpg);
+    margin-left: 10%;
+    margin-top: 10%; 
+    width: 300px;
+    height: 400px; 
+}
+.zapatilla{
+    width: 100%;
+}
+.fondo-footer{
+    background:#0B0B3B; 
+}
+.frase{
+    font-size: 30px;
+}
+#contact_form{
+    margin-left: 25%;
+}
+#submit_button{
+    font-family: Montserrat;
+    height: 40px;
+    width: 490px;
+    border:3px solid #0B0B61;
+    background: #0B0B61;
+    cursor: pointer; 
+    color: white;
+}
+.contactanos{
+    color:#0B0B61;
+    font-size: 45px; 
+    margin-left: 25%;
+    margin-bottom: 10%;
+}
+
+
+
